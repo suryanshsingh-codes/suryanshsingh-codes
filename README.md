@@ -1,5 +1,9 @@
 # 💫 About Me:
-⚡ I'm currently working on: Building personal projects and sharpening my development skills.🤝 I'm looking to collaborate on: Open-source projects and creative web development ideas.🙋‍♂️ I'm looking for help with: Mastering advanced system design and cloud technologies.📚 I'm currently learning: New frameworks, modern API integrations, and clean coding practices.💬 Ask me about: Frontend development, programming logic, or tech trends.⚡ Fun fact: I can debug code in my sleep, but coffee definitely helps!
+⚡Building personal projects and sharpening my development skills.
+🤝Open-source projects and creative web development ideas.
+🙋‍♂️Mastering advanced system design and cloud technologies.
+📚Learning New frameworks, modern API integrations, and clean coding practices.
+💬Frontend development, programming logic, or tech trends.
 
 
 ## 🌐 Socials:
