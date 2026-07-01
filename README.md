@@ -1,9 +1,9 @@
 # 💫 About Me:
-⚡Building personal projects and sharpening my development skills.
-🤝Open-source projects and creative web development ideas.
-🙋‍♂️Mastering advanced system design and cloud technologies.
-📚Learning New frameworks, modern API integrations, and clean coding practices.
-💬Frontend development, programming logic, or tech trends.
+⚡Building personal projects and sharpening my development skills.  
+🤝Open-source projects and creative web development ideas.  
+🙋‍♂️Mastering advanced system design and cloud technologies.  
+📚Learning New frameworks, modern API integrations, and clean coding practices.  
+💬Frontend development, programming logic, or tech trends.  
 
 
 ## 🌐 Socials:
