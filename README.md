@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast • Full-Stack Web Developer • Open Source Learner
+AI & Machine Learning Enthusiast • Full-Stack Web Developer Enthusiast • Open Source Learner
 </h3>
 
 <p align="center">
@@ -91,10 +91,6 @@ Building real-world AI applications, scalable web solutions, and continuously im
 ⭐ House Price Prediction
 
 ⭐ Heart Disease Prediction
-
-⭐ Spam Email Detection
-
-⭐ Student Management System
 
 ⭐ AI & Machine Learning Projects
 
