@@ -1,101 +1,170 @@
-<h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Enthusiast • Full-Stack Web Developer Enthusiast • Open Source Learner
-</h3>
+# 👋 Hi, I'm Suryansh Singh
 
-<p align="center">
-Building real-world AI applications, scalable web solutions, and continuously improving my software engineering skills.
+### AI Engineer in Progress • Machine Learning Enthusiast • Software Developer
+
+<p>
+Building intelligent applications with Machine Learning, writing clean Python code, and continuously improving my software engineering skills.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Python+Programmer;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Python+Developer;Software+Engineering;Always+Learning+Something+New"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=suryanshsingh-codes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Undergraduate (2028)
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Engineering.
-- 🚀 Building projects that solve real-world problems using Python and Machine Learning.
-- 🌱 Currently exploring Deep Learning, System Design, Cloud Computing, REST APIs, and Backend Development.
-- 🤝 Open to collaborating on AI Projects, Open Source, and Full-Stack Applications.
-- 📚 Always learning new technologies and writing clean, maintainable code.
-- 🎯 Goal: Become an AI Engineer and contribute to impactful AI products.
+🎓 **Computer Science Undergraduate (2028)**
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Engineering.
+
+💻 Building practical projects that combine programming, data, and intelligent systems.
+
+📚 Currently learning
+
+- Machine Learning
+- Deep Learning
+- System Design
+- Backend Development
+- Cloud Computing
+- REST APIs
+
+🎯 **Mission**
+
+Build production-ready AI solutions and become an AI Engineer capable of solving real-world problems.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshsingh-codes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsurya0509@gmail.com)
+<div align="center">
+
+<a href="https://linkedin.com/in/suryanshsingh-codes">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mrsurya0509@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+## 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java"/>
+</p>
 
-### Web Development
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 🌐 Web
 
-### Database
+<p>
+<img src="https://skillicons.dev/icons?i=html"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Machine Learning
+## 🗄 Database
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-### ML Algorithms
+---
 
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-blue?style=for-the-badge)
-![Decision Tree](https://img.shields.io/badge/Decision_Tree-green?style=for-the-badge)
-![Support Vector Machine](https://img.shields.io/badge/SVM-red?style=for-the-badge)
-![KNN](https://img.shields.io/badge/KNN-orange?style=for-the-badge)
-![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-yellow?style=for-the-badge)
+## 🤖 Machine Learning
 
-### Tools
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
+</p>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+---
+
+# 🧠 Currently Working On
+
+- 🤖 Machine Learning Projects
+- 📊 Data Analysis
+- 🧩 Problem Solving
+- 🌐 Full Stack Development
+- ⚡ Python Development
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚢 Titanic Survival Prediction | End-to-end classification model |
+| ❤️ Heart Disease Prediction | Healthcare prediction using Machine Learning |
+| 🏠 House Price Prediction | Regression model for housing prices |
+| 🤖 Machine Learning Repository | Complete ML learning roadmap |
+| 🐍 Python Repository | Structured Python learning repository |
 
 ---
 
 # 📈 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=suryanshsingh-codes&show_icons=true&theme=highcontrast&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=suryanshsingh-codes&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suryanshsingh-codes&layout=compact&theme=highcontrast)
+![](https://github-readme-streak-stats.herokuapp.com/?user=suryanshsingh-codes&theme=tokyonight&hide_border=true)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsingh-codes&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🚀 Featured Projects
-
-⭐ Titanic Survival Prediction
-
-⭐ House Price Prediction
-
-⭐ Heart Disease Prediction
-
-⭐ AI & Machine Learning Projects
+</div>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+# 🎯 2026 Goals
+
+- Build 20+ Machine Learning Projects
+- Master Python for AI
+- Learn Deep Learning
+- Contribute to Open Source
+- Build Production-Level Applications
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+*"Learning never stops. Every project is one step closer to becoming a better engineer."*
+
+</div>
