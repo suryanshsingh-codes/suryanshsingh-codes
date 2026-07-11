@@ -1,6 +1,30 @@
-# 💫 About Me:
-🙋‍♂️I'm Suryansh Singh.<br>⚡Building personal projects and sharpening my development skills.<br>🤝Open-source projects and creative web development ideas.<br>🙋‍♂️Mastering advanced system design and cloud technologies.<br>📚Learning New frameworks, modern API integrations, and clean coding practices.<br>💬Frontend development, programming logic, or tech trends.
+# 💫 About Me
 
+👋 Hi, I'm **Suryansh Singh**
+
+💻 AI & Machine Learning Enthusiast | Full-Stack Web Developer
+
+🚀 Building projects that solve real-world problems and strengthen my engineering skills.
+
+🌱 Currently learning:
+- Machine Learning & Deep Learning
+- System Design
+- Cloud Computing
+- REST APIs & Backend Development
+- Modern Web Technologies
+
+🤝 Looking to collaborate on:
+- Open Source
+- AI Projects
+- Web Applications
+- Developer Tools
+
+🎯 2026 Goals:
+- Build impactful AI projects
+- Contribute to Open Source
+- Master Full-Stack Development
+
+💬 Ask me about Python, Machine Learning, Web Development, Git, GitHub, or Programming.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshsingh-codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrsurya0509@gmail.com) 
