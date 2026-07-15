@@ -127,13 +127,92 @@ Build production-ready AI solutions and become an AI Engineer capable of solving
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚢 Titanic Survival Prediction | End-to-end classification model |
-| ❤️ Heart Disease Prediction | Healthcare prediction using Machine Learning |
-| 🏠 Ford Car Price Prediction | Regression model for Ford Car prices |
-| 🤖 Machine Learning Repository | Complete ML learning roadmap |
-| 🐍 Python Repository | Structured Python learning repository |
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🚗 Ford Car Price Prediction</h3>
+
+<p align="center">
+
+Regression model predicting used Ford car prices using Machine Learning.
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
+Python • Pandas • NumPy • Scikit-learn
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes">
+<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🚢 Titanic Survival Prediction</h3>
+
+<p align="center">
+
+Classification project comparing multiple Machine Learning algorithms.
+
+<br><br>
+
+<b>Algorithms</b>
+
+<br>
+
+Logistic Regression • KNN • SVM
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes">
+<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">❤️ Heart Disease Prediction</h3>
+
+<p align="center">
+
+Healthcare classification using EDA, preprocessing and feature engineering.
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
+Python • Pandas • Scikit-learn
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes">
+<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+</table>
 
 ---
 
