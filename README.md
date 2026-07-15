@@ -131,7 +131,7 @@ Build production-ready AI solutions and become an AI Engineer capable of solving
 |----------|-------------|
 | 🚢 Titanic Survival Prediction | End-to-end classification model |
 | ❤️ Heart Disease Prediction | Healthcare prediction using Machine Learning |
-| 🏠 House Price Prediction | Regression model for housing prices |
+| 🏠 Ford Car Price Prediction | Regression model for Ford Car prices |
 | 🤖 Machine Learning Repository | Complete ML learning roadmap |
 | 🐍 Python Repository | Structured Python learning repository |
 
