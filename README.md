@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Suryansh%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=58"/>
+
 # 👋 Hi, I'm Suryansh Singh
 
 ### AI Engineer in Progress • Machine Learning Enthusiast • Software Developer
 
-<p>
 Building intelligent applications with Machine Learning, writing clean Python code, and continuously improving my software engineering skills.
-</p>
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Python+Developer;Software+Engineering;Always+Learning+Something+New"/>
 
@@ -20,24 +22,24 @@ Building intelligent applications with Machine Learning, writing clean Python co
 
 # 🚀 About Me
 
-🎓 **Computer Science Undergraduate (2028)**
+🎓 Computer Science Undergraduate (2028)
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Engineering.
 
-💻 Building practical projects that combine programming, data, and intelligent systems.
+💻 Building practical projects using Machine Learning, Data Analysis and Python.
 
-📚 Currently learning
+🌱 Currently Learning
 
 - Machine Learning
 - Deep Learning
-- System Design
 - Backend Development
-- Cloud Computing
 - REST APIs
+- Cloud Computing
+- System Design
 
-🎯 **Mission**
+🎯 Goal
 
-Build production-ready AI solutions and become an AI Engineer capable of solving real-world problems.
+Become an AI Engineer capable of building production-ready intelligent systems.
 
 ---
 
@@ -49,7 +51,7 @@ Build production-ready AI solutions and become an AI Engineer capable of solving
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto: suryanshsingh.codes@gmail.com">
+<a href="mailto:suryanshsingh.codes@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -59,31 +61,25 @@ Build production-ready AI solutions and become an AI Engineer capable of solving
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,java"/>
 </p>
 
----
-
-## 🌐 Web
+### 🌐 Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=html"/>
 </p>
 
----
-
-## 🗄 Database
+### 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
----
-
-## 🤖 Machine Learning
+### 🤖 Machine Learning
 
 <p>
 
@@ -101,9 +97,7 @@ Build production-ready AI solutions and become an AI Engineer capable of solving
 
 </p>
 
----
-
-## 🛠 Tools
+### 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=github,vscode"/>
@@ -119,9 +113,9 @@ Build production-ready AI solutions and become an AI Engineer capable of solving
 
 - 🤖 Machine Learning Projects
 - 📊 Data Analysis
-- 🧩 Problem Solving
-- 🌐 Full Stack Development
 - ⚡ Python Development
+- 🌐 Backend Development
+- 🧩 Data Structures & Algorithms
 
 ---
 
@@ -149,8 +143,10 @@ Python • Pandas • NumPy • Scikit-learn
 
 <br><br>
 
-<a href="[https://github.com/suryanshsingh-codes](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb)">
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb">
+
 <img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+
 </a>
 
 </p>
@@ -163,7 +159,7 @@ Python • Pandas • NumPy • Scikit-learn
 
 <p align="center">
 
-Classification project comparing multiple Machine Learning algorithms.
+Classification project comparing Logistic Regression, KNN, Decision Tree, Naive Bayes and SVM.
 
 <br><br>
 
@@ -175,8 +171,10 @@ Logistic Regression • KNN • SVM
 
 <br><br>
 
-<a href="[https://github.com/suryanshsingh-codes](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project4OfML.ipynb)">
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project4OfML.ipynb">
+
 <img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+
 </a>
 
 </p>
@@ -193,7 +191,7 @@ Logistic Regression • KNN • SVM
 
 <p align="center">
 
-Healthcare classification using EDA, preprocessing and feature engineering.
+Healthcare prediction using EDA, preprocessing, feature engineering and classification.
 
 <br><br>
 
@@ -205,13 +203,46 @@ Python • Pandas • Scikit-learn
 
 <br><br>
 
-<a href="[https://github.com/suryanshsingh-codes](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project2OfML.ipynb)">
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project2OfML.ipynb">
+
 <img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+
 </a>
 
 </p>
 
 </td>
+
+<td width="50%">
+
+<h3 align="center">🐍 Python Learning Repository</h3>
+
+<p align="center">
+
+Daily Python learning repository covering core programming concepts.
+
+<br><br>
+
+<b>Topics</b>
+
+<br>
+
+OOP • Exception Handling • File Handling • Functions
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/LearningPython">
+
+<img src="https://img.shields.io/badge/View_Repository-2962FF?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
@@ -230,13 +261,23 @@ Python • Pandas • Scikit-learn
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=suryanshsingh-codes&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
 # 🎯 2026 Goals
 
 - Build 20+ Machine Learning Projects
-- Master Python for AI
 - Learn Deep Learning
+- Build End-to-End AI Applications
 - Contribute to Open Source
-- Build Production-Level Applications
+- Become AI Engineer Ready
 
 ---
 
