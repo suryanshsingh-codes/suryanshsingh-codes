@@ -213,33 +213,6 @@ Python • Pandas • Scikit-learn
 
 </td>
 
-<td width="50%">
-
-<h3 align="center">🐍 Python Learning Repository</h3>
-
-<p align="center">
-
-Daily Python learning repository covering core programming concepts.
-
-<br><br>
-
-<b>Topics</b>
-
-<br>
-
-OOP • Exception Handling • File Handling • Functions
-
-<br><br>
-
-<a href="https://github.com/suryanshsingh-codes/LearningPython">
-
-<img src="https://img.shields.io/badge/View_Repository-2962FF?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
 
 </tr>
 
