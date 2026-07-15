@@ -149,7 +149,7 @@ Python • Pandas • NumPy • Scikit-learn
 
 <br><br>
 
-<a href="https://github.com/suryanshsingh-codes">
+<a href="[https://github.com/suryanshsingh-codes](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb)">
 <img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
 </a>
 
@@ -175,7 +175,7 @@ Logistic Regression • KNN • SVM
 
 <br><br>
 
-<a href="https://github.com/suryanshsingh-codes">
+<a href="[https://github.com/suryanshsingh-codes](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project4OfML.ipynb)">
 <img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
 </a>
 
@@ -205,7 +205,7 @@ Python • Pandas • Scikit-learn
 
 <br><br>
 
-<a href="https://github.com/suryanshsingh-codes">
+<a href="[https://github.com/suryanshsingh-codes](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project2OfML.ipynb)">
 <img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
 </a>
 
