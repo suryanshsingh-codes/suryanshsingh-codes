@@ -43,22 +43,6 @@ Become an AI Engineer capable of building production-ready intelligent systems.
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/suryanshsingh-codes">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:suryanshsingh.codes@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -103,9 +87,11 @@ Become an AI Engineer capable of building production-ready intelligent systems.
 <img src="https://skillicons.dev/icons?i=github,vscode"/>
 </p>
 
+<div align="left">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</div>
 
 ---
 
@@ -255,6 +241,23 @@ Python • Pandas • Scikit-learn
 ---
 
 <div align="center">
+
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/suryanshsingh-codes">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:suryanshsingh.codes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ## ⭐ Thanks for visiting my profile!
 
