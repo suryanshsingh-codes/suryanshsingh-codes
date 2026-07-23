@@ -210,11 +210,11 @@ Python • Pandas • Scikit-learn
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=suryanshsingh-codes&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryanshsingh-codes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=suryanshsingh-codes&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsingh-codes&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsingh-codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 
 </div>
 
