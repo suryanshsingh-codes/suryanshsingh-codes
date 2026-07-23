@@ -310,13 +310,7 @@ Python • Pandas • Scikit-learn
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryanshsingh-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsingh-codes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -343,16 +337,6 @@ Python • Pandas • Scikit-learn
 <img src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg"/>
 
 </picture>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suryanshsingh-codes&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
