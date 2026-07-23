@@ -1,69 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Suryansh%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1020,25:1E3A8A,50:2563EB,75:38BDF8,100:60A5FA&text=Suryansh%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%7C%20Artificial%20Intelligence%20%7C%20Python%20Developer&descAlignY=58"/>
 
-# 👋 Hi, I'm Suryansh Singh
-
-### AI Engineer in Progress • Machine Learning Enthusiast • Software Developer
-
-Building intelligent applications with Machine Learning, writing clean Python code, and continuously improving my software engineering skills.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;Data+Science+Learner;Building+Real-World+Projects;Always+Learning+Something+New"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Python+Developer;Software+Engineering;Always+Learning+Something+New"/>
+<img src="https://komarev.com/ghpvc/?username=suryanshsingh-codes&style=for-the-badge&color=2563EB"/>
 
-<br>
+<img src="https://img.shields.io/github/followers/suryanshsingh-codes?style=for-the-badge&logo=github"/>
 
-<img src="https://komarev.com/ghpvc/?username=suryanshsingh-codes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/suryanshsingh-codes?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 Computer Science Undergraduate (2028)
+```python
+class SuryanshSingh:
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Engineering.
+    def __init__(self):
+        self.role = "Machine Learning Engineer"
+        self.education = "B.Tech Computer Science (2028)"
+        self.location = "Roorkee, India"
 
-💻 Building practical projects using Machine Learning, Data Analysis and Python.
+        self.languages = [
+            "Python",
+            "SQL",
+            "Java",
+            "C"
+        ]
 
-🌱 Currently Learning
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Backend Development"
+        ]
 
-- Machine Learning
-- Deep Learning
-- Backend Development
-- REST APIs
-- Cloud Computing
-- System Design
+        self.currently_learning = [
+            "Machine Learning",
+            "SQL",
+            "Deep Learning",
+            "System Design",
+            "Backend Development"
+        ]
 
-🎯 Goal
+        self.goal = "Build Production Ready AI Systems"
 
-Become an AI Engineer capable of building production-ready intelligent systems.
+me = SuryanshSingh()
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🐍 Python Development
+- 🗄 SQL & PostgreSQL
+- 🌐 Backend Development
+- 📈 Data Visualization
+- ⚙ Data Structures & Algorithms
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java"/>
-</p>
 
-### 🌐 Web
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java"/>
 
-### 🗄 Database
+<img src="https://skillicons.dev/icons?i=c"/>
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
 </p>
 
-### 🤖 Machine Learning
+---
+
+## 📚 Machine Learning & Data Science
 
 <p>
 
@@ -77,35 +101,54 @@ Become an AI Engineer capable of building production-ready intelligent systems.
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 </p>
 
-### 🛠 Tools
+---
+
+## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=github,vscode"/>
-</p>
 
-<div align="left">
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-</div>
+</p>
 
 ---
 
-# 🧠 Currently Working On
+# 🧠 Learning Roadmap
 
-- 🤖 Machine Learning Projects
-- 📊 Data Analysis
-- ⚡ Python Development
-- 🌐 Backend Development
-- 🧩 Data Structures & Algorithms
+| Technology | Progress |
+|------------|----------|
+| Python | ██████████ 100% |
+| NumPy | ██████████ 100% |
+| Pandas | ██████████ 100% |
+| Data Visualization | ██████████ 100% |
+| SQL | ██████░░░░ 60% |
+| Machine Learning | ██████████ 100% |
+| Deep Learning | ██░░░░░░░░ 20% |
+| NLP | █░░░░░░░░░ 10% |
+| Computer Vision | █░░░░░░░░░ 10% |
+| MLOps | ░░░░░░░░░░ 0% |
+| Cloud | ░░░░░░░░░░ 0% |
 
 ---
-
 # 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 
@@ -113,11 +156,67 @@ Become an AI Engineer capable of building production-ready intelligent systems.
 
 <td width="50%">
 
+<h3 align="center">🚢 Titanic Survival Prediction</h3>
+
+<p align="center">
+
+Machine Learning classification project built on the Titanic dataset using multiple supervised learning algorithms.
+
+<br><br>
+
+<b>Highlights</b>
+
+<br>
+
+✔ Data Cleaning
+
+✔ Feature Engineering
+
+✔ Model Comparison
+
+✔ Performance Evaluation
+
+<br><br>
+
+<b>Algorithms</b>
+
+<br>
+
+Logistic Regression • KNN • Decision Tree • Naive Bayes • SVM
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project4OfML.ipynb">
+
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
 <h3 align="center">🚗 Ford Car Price Prediction</h3>
 
 <p align="center">
 
-Regression model predicting used Ford car prices using Machine Learning.
+Regression model for predicting used Ford car prices using Machine Learning techniques.
+
+<br><br>
+
+<b>Highlights</b>
+
+<br>
+
+✔ Data Cleaning
+
+✔ Feature Selection
+
+✔ Regression Modeling
+
+✔ Model Evaluation
 
 <br><br>
 
@@ -131,35 +230,7 @@ Python • Pandas • NumPy • Scikit-learn
 
 <a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb">
 
-<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🚢 Titanic Survival Prediction</h3>
-
-<p align="center">
-
-Classification project comparing Logistic Regression, KNN, Decision Tree, Naive Bayes and SVM.
-
-<br><br>
-
-<b>Algorithms</b>
-
-<br>
-
-Logistic Regression • KNN • SVM
-
-<br><br>
-
-<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project4OfML.ipynb">
-
-<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 
 </a>
 
@@ -177,7 +248,21 @@ Logistic Regression • KNN • SVM
 
 <p align="center">
 
-Healthcare prediction using EDA, preprocessing, feature engineering and classification.
+Healthcare Machine Learning project for predicting heart disease using classification algorithms.
+
+<br><br>
+
+<b>Highlights</b>
+
+<br>
+
+✔ EDA
+
+✔ Feature Engineering
+
+✔ Classification
+
+✔ Visualization
 
 <br><br>
 
@@ -191,7 +276,7 @@ Python • Pandas • Scikit-learn
 
 <a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project2OfML.ipynb">
 
-<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 
 </a>
 
@@ -199,10 +284,25 @@ Python • Pandas • Scikit-learn
 
 </td>
 
-
 </tr>
-
 </table>
+
+</div>
+
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+| Certification | Status |
+|---------------|--------|
+| 🧠 Machine Learning — Mind Luster | ✅ |
+| 📊 Python — Mind Luster | ✅ |
+| 🤖 Numpy, Pandas, Statistics — Mind Luster | ✅ |
+| 💼 Deloitte Data Analytics Job Simulation | ✅ |
+
+</div>
 
 ---
 
@@ -210,57 +310,104 @@ Python • Pandas • Scikit-learn
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryanshsingh-codes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryanshsingh-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsingh-codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsingh-codes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Activity
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=suryanshsingh-codes&theme=tokyonight&no-frame=true&row=1&column=6)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-codes&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
-
-- Build 20+ Machine Learning Projects
-- Learn Deep Learning
-- Build End-to-End AI Applications
-- Contribute to Open Source
-- Become AI Engineer Ready
-
----
+# 🐍 Contribution Snake
 
 <div align="center">
 
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suryanshsingh-codes&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Python
+- ✅ NumPy
+- ✅ Pandas
+- ✅ Data Visualization
+- 🟡 SQL
+- 🟡 Machine Learning
+- 🟡 Deep Learning
+- 🟡 Backend Development
+- 🔜 NLP
+- 🔜 Computer Vision
+- 🔜 MLOps
+- 🔜 Cloud Computing
+- 🔜 System Design
+
+---
 
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/suryanshsingh-codes">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:suryanshsingh.codes@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/suryanshsingh-codes">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
-## ⭐ Thanks for visiting my profile!
+<div align="center">
 
-*"Learning never stops. Every project is one step closer to becoming a better engineer."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:2563EB&height=120&section=footer"/>
+
+### ⭐ Thanks for Visiting!
+
+*"Code • Learn • Build • Repeat 🚀"*
 
 </div>
