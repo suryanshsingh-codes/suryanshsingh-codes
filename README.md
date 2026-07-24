@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1020,25:1E3A8A,50:2563EB,75:38BDF8,100:60A5FA&text=Suryansh%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%7C%20Artificial%20Intelligence%20%7C%20Python%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;Data+Science+Learner;Building+Real-World+Projects;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=%3E+Initializing+AI+Engineer...;%3E+Loading+Python...+██████████;%3E+Loading+Machine+Learning...+██████████;%3E+Loading+SQL...+██████████;%3E+Loading+Computer+Vision...+██████████;%3E+Loading+Deep+Learning...+██████████;%3E+Access+Granted.;%3E+Welcome+Suryansh+Singh"/>
 
 <br>
 
