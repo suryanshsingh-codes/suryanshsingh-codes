@@ -41,8 +41,7 @@ Natural Language Processing, and Backend Development.
 </a>
 
 </div>
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=suryanshsingh-codes&style=for-the-badge&color=2563EB"/>
 
