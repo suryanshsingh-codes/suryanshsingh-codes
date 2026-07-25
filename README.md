@@ -125,3 +125,242 @@ me = SuryanshSingh()
 </p>
 
 ---
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💰 Insurance Cost Prediction</h3>
+
+<p align="center">
+
+A machine learning regression project for predicting insurance costs using data preprocessing, feature engineering, and model evaluation.
+
+<br><br>
+
+<b>Tech Stack</b><br>
+
+Python • Pandas • NumPy • Scikit-learn
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project5OfMLinsurance.ipynb">
+<img src="https://img.shields.io/badge/Notebook-2563EB?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">❤️ Heart Disease Prediction App</h3>
+
+<p align="center">
+
+An end-to-end machine learning application with a Streamlit interface for heart disease prediction.
+
+<br><br>
+
+<b>Tech Stack</b><br>
+
+Python • Streamlit • Pandas • Scikit-learn
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project7ofML_HeartDiseaseApp.ipynb">
+<img src="https://img.shields.io/badge/Notebook-2563EB?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/heartDiseaseApp.py">
+<img src="https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Used Car Price Prediction</h3>
+
+<p align="center">
+
+A regression model for predicting used car prices through feature engineering and predictive modeling.
+
+<br><br>
+
+<b>Tech Stack</b><br>
+
+Python • Pandas • NumPy • Scikit-learn
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb">
+<img src="https://img.shields.io/badge/Notebook-2563EB?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📈 Cross Validation & Model Evaluation</h3>
+
+<p align="center">
+
+Implemented cross-validation techniques to evaluate and compare machine learning models for reliable performance.
+
+<br><br>
+
+<b>Tech Stack</b><br>
+
+Python • Scikit-learn • Cross Validation
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project6OfML_Using_Cross_Validation.ipynb">
+<img src="https://img.shields.io/badge/Notebook-2563EB?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-codes&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: system)"
+srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: system)"
+srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
+---
+# 🌱 Currently Learning
+
+- 🧠 Deep Learning
+- 💬 Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- ⚙️ Backend Development
+- ☁️ MLOps
+- 🏗️ System Design
+
+---
+
+
+# 🏅 Certifications
+
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center">
+
+🥇
+
+### Machine Learning
+
+**Mind Luster**
+
+</td>
+
+<td align="center">
+
+🐍
+
+### Python
+
+**Mind Luster**
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+📊
+
+### NumPy • Pandas • Statistics
+
+**Mind Luster**
+
+</td>
+
+<td align="center">
+
+💼
+
+### Deloitte Data Analytics
+
+**Job Simulation**
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:2563EB&height=120&section=footer"/>
+
+### Thanks for visiting!
+
+**Building AI that solves real-world problems.**
+
+⭐ If you like my work, consider following my journey.
+
+</div>
