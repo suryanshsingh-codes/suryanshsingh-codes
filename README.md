@@ -268,13 +268,12 @@ Python • Scikit-learn • Cross Validation
 <picture>
 
 <source
-media="(prefers-color-scheme: system)"
-srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake-dark.svg">
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake-dark.svg">
 
 <source
-media="(prefers-color-scheme: system)"
-srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg">
-
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg">
 <img
 alt="GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg">
