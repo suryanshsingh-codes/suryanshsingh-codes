@@ -36,7 +36,7 @@ Natural Language Processing, and Backend Development.
 <a href="mailto:suryanshsingh.codes@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1B8u-4m1jV2b3UK4eB65tS3PZGG67aFYo/view?usp=drivesdk">
+<a href="https://drive.google.com/file/d/149KNVbqdVM2WRf-UNmjpRl_YUGvdHlgH/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
