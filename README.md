@@ -151,12 +151,14 @@ me = SuryanshSingh()
 
 <td align="center">
 
-### 🌐 Framework
+### 🌐 Frameworks
 
-<img src="https://skillicons.dev/icons?i=streamlit"/>
+<p align="center">
 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
 </td>
-
 <td align="center">
 
 ### 🛠️ Development
