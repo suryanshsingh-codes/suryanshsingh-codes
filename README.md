@@ -1,8 +1,7 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,15:0F172A,35:1E3A8A,55:2563EB,75:38BDF8,100:7DD3FC&text=Suryansh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2800&pause=900&color=color=C770F0&center=true&vCenter=true&repeat=true&width=1000&lines=SURYANSH+SINGH;AI+ENGINEER;MACHINE+LEARNING;BUILDING+INTELLIGENT+SYSTEMS;OPEN+SOURCE+DEVELOPER"/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=SURYA&fontSize=60&fontAlignY=48&animation=fadeIn&fontColor=ffffff&color=0:020617,20:0F172A,50:1D4ED8,75:2563EB,100:38BDF8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2800&pause=900&color=color=C770F0&center=true&vCenter=true&repeat=true&width=1000&lines=AI+ENGINEER;MACHINE+LEARNING;BUILDING+INTELLIGENT+SYSTEMS;OPEN+SOURCE+DEVELOPER"/>
 
 ### **`Engineering Intelligence, One Model at a Time.`**
 
