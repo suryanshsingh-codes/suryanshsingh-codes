@@ -417,6 +417,11 @@ Python • Pandas • NumPy • Scikit-learn
 <div align="center">
 
 <p align="center">
+<img src="https://github.com/suryanshsingh-codes/suryanshsingh-codes/blob/main/github-metrics.svg"/>
+</p>
+
+
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshsingh-codes&theme=tokyonight"/>
 </p>
 
