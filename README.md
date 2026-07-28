@@ -416,11 +416,10 @@ Python • Pandas • NumPy • Scikit-learn
 
 <div align="center">
 
-<p align="center">
-<img src="https://github.com/suryanshsingh-codes/suryanshsingh-codes/blob/main/github-metrics.svg"/>
-</p>
+<br>
 
 
+<!-- Summary Cards -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshsingh-codes&theme=tokyonight"/>
 </p>
@@ -430,10 +429,16 @@ Python • Pandas • NumPy • Scikit-learn
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suryanshsingh-codes&theme=tokyonight&utcOffset=5"/>
 </p>
 
+<!-- Streak -->
 <img width="100%" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
+<br>
+<!-- Metrics Dashboard -->
+<p align="center">
+<img src="./github-metrics.svg"/>
+</p>
 </div>
 
 ---
