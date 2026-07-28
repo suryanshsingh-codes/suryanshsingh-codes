@@ -309,20 +309,23 @@ Medical insurance cost estimation using regression.
 
 ---
 
+
 # 📊 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-codes&theme=react-dark&hide_border=true&area=true"/>
+<!-- 3D Contribution Graph -->
+<img width="100%" src="./profile-3d-contrib/profile-night-green.svg"/>
 
-</div>
----
+<br><br>
 
-# 🐍 Contribution Snake
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-codes&theme=tokyo-night&hide_border=true&area=true&radius=16"/>
 
-<div align="center">
+<br><br>
 
-<img width="100%" src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/profile-3d-contrib/profile-night-green.svg"/>
+<!-- Contribution Snake -->
+<img width="100%" src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
