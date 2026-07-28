@@ -1,6 +1,9 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,15:0F172A,35:1E3A8A,55:2563EB,75:38BDF8,100:7DD3FC&text=Suryansh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58"/>
 
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2800&pause=900&color=color=C770F0&center=true&vCenter=true&repeat=true&width=1000&lines=AI+ENGINEER;MACHINE+LEARNING;BUILDING+INTELLIGENT+SYSTEMS;OPEN+SOURCE+DEVELOPER"/>
 
 ### **`Engineering Intelligence, One Model at a Time.`**
@@ -30,6 +33,11 @@
 <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 </p>
+
+<br>
+<img src="https://img.shields.io/github/stars/suryanshsingh-codes?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/suryanshsingh-codes?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=suryanshsingh-codes&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -404,12 +412,22 @@ Python • Pandas • NumPy • Scikit-learn
 
 ---
 
-# 📈 GitHub Analytics
-
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFzYzVzYzVzYzV6eGQ5eHQ1eHM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> GitHub Analytics
 
 <div align="center">
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryanshsingh-codes&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryanshsingh-codes&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suryanshsingh-codes&theme=tokyonight&utcOffset=5"/>
+</p>
+
 <img width="100%" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
+
+<br><br>
 
 </div>
 
