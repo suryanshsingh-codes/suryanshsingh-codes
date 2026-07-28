@@ -166,7 +166,6 @@ me = SuryanshSingh()
 
 # 🚀 Featured Projects
 
-
 ---
 
 # 📈 GitHub Analytics
