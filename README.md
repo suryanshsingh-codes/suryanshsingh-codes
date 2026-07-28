@@ -71,33 +71,57 @@ me = SuryanshSingh()
 
 ---
 
-# 💻 Tech Stack
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Tech Arsenal
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-</p>
+<table>
 
+<tr>
 
+<td align="center" width="25%">
 
-### 📊 Data Science & Machine Learning
+### 👨‍💻 Languages
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OOP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-0EA5E9?style=flat-square"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/PL/SQL-1D4ED8?style=flat-square"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI & ML
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 Visualization
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
@@ -105,57 +129,67 @@ me = SuryanshSingh()
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-</p>
+</td>
 
+</tr>
 
+<tr>
 
-### 💬 Natural Language Processing
+<td align="center">
 
-<p align="left">
+### 💬 NLP
 
 <img src="https://img.shields.io/badge/NLTK-4CAF50?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/TF--IDF-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Bag--of--Words-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bag%20of%20Words-0EA5E9?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Text%20Classification-7C3AED?style=for-the-badge"/>
 
-</p>
+</td>
 
+<td align="center">
 
+### 🌐 Framework
 
-### 🌐 Frameworks
+<img src="https://skillicons.dev/icons?i=streamlit"/>
 
-<p align="left">
+</td>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<td align="center">
 
-</p>
+### 🛠️ Development
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
 
-
-### 🛠 Tools & Platforms
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-</p>
-
-<p align="left">
+<br><br>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-</p>
+</td>
+
+<td align="center">
+
+### 🚀 Currently Learning
+
+<img src="https://img.shields.io/badge/Deep%20Learning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Neural%20Networks-1D4ED8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
 
 
 
