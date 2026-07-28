@@ -165,7 +165,212 @@ me = SuryanshSingh()
 
 
 # 🚀 Featured Projects
+<div align="center">
 
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">❤️ Heart Disease Prediction System</h3>
+
+<p align="center">
+
+An end-to-end machine learning classification project that predicts heart disease using patient health parameters with a deployed Streamlit application.
+
+<br><br>
+
+<b>Highlights</b>
+
+<br>
+
+✔ Data Preprocessing
+
+✔ Exploratory Data Analysis
+
+✔ Feature Engineering
+
+✔ Classification Model
+
+✔ Streamlit Application
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
+Python • Pandas • NumPy • Scikit-learn • Streamlit
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/heartDiseaseApp.py">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project7ofML_HeartDiseaseApp.ipynb">
+
+<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">💬 NLP Emotion Classifier</h3>
+
+<p align="center">
+
+An NLP based emotion classification system that processes text and predicts emotions using machine learning techniques.
+
+<br><br>
+
+<b>Highlights</b>
+
+<br>
+
+✔ Text Preprocessing
+
+✔ TF-IDF
+
+✔ Bag of Words
+
+✔ Logistic Regression
+
+✔ Streamlit Application
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
+Python • NLTK • Scikit-learn • Streamlit
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/NLP/blob/main/app.py">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/suryanshsingh-codes/NLP">
+
+<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Car Price Prediction System</h3>
+
+<p align="center">
+
+A regression based machine learning project that predicts car prices using different vehicle features.
+
+<br><br>
+
+<b>Highlights</b>
+
+<br>
+
+✔ Data Analysis
+
+✔ Feature Engineering
+
+✔ Regression Models
+
+✔ Model Evaluation
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
+Python • Pandas • NumPy • Scikit-learn
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb">
+
+<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 Insurance Cost Prediction System</h3>
+
+<p align="center">
+
+A regression machine learning project that estimates medical insurance charges based on personal and health-related features.
+
+<br><br>
+
+<b>Highlights</b>
+
+<br>
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ Regression Modeling
+
+✔ Performance Evaluation
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
+Python • Pandas • NumPy • Scikit-learn
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project5OfMLinsurance.ipynb">
+
+<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 ---
 
 # 📈 GitHub Analytics
