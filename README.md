@@ -202,215 +202,81 @@ me = SuryanshSingh()
 
 
 
-# 🚀 Featured Projects
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh6czVzYzVzYzVzYzV6eGQ5eHQ1eHM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif" width="35px"> Featured Projects
+
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">❤️ Heart Disease Prediction System</h3>
+### ❤️ Heart Disease Prediction
+ML classification project predicting heart disease with Streamlit app.
 
-<p align="center">
+✔ Data Preprocessing | EDA | Feature Engineering  
+✔ Classification Model | Streamlit App
 
-An end-to-end machine learning classification project that predicts heart disease using patient health parameters with a deployed Streamlit application.
+**Tech:** Python • Pandas • Scikit-learn • Streamlit
 
-<br><br>
-
-<b>Highlights</b>
-
-<br>
-
-✔ Data Preprocessing
-
-✔ Exploratory Data Analysis
-
-✔ Feature Engineering
-
-✔ Classification Model
-
-✔ Streamlit Application
-
-<br><br>
-
-<b>Tech Stack</b>
-
-<br>
-
-Python • Pandas • NumPy • Scikit-learn • Streamlit
-
-<br><br>
-
-<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/heartDiseaseApp.py">
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</a>
-
-&nbsp;
-
-<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project7ofML_HeartDiseaseApp.ipynb">
-
-<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/heartDiseaseApp.py)
+[![Source](https://img.shields.io/badge/Source-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project7ofML_HeartDiseaseApp.ipynb)
 
 </td>
 
-
 <td width="50%" valign="top">
 
-<h3 align="center">💬 NLP Emotion Classifier</h3>
+### 💬 NLP Emotion Classifier
+Text emotion detection using NLP & ML techniques.
 
-<p align="center">
+✔ Text Preprocessing | TF-IDF | Bag of Words  
+✔ Logistic Regression | Streamlit App
 
-An NLP based emotion classification system that processes text and predicts emotions using machine learning techniques.
+**Tech:** Python • NLTK • Scikit-learn • Streamlit
 
-<br><br>
-
-<b>Highlights</b>
-
-<br>
-
-✔ Text Preprocessing
-
-✔ TF-IDF
-
-✔ Bag of Words
-
-✔ Logistic Regression
-
-✔ Streamlit Application
-
-<br><br>
-
-<b>Tech Stack</b>
-
-<br>
-
-Python • NLTK • Scikit-learn • Streamlit
-
-<br><br>
-
-<a href="https://github.com/suryanshsingh-codes/NLP/blob/main/app.py">
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</a>
-
-&nbsp;
-
-<a href="https://github.com/suryanshsingh-codes/NLP">
-
-<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/suryanshsingh-codes/NLP/blob/main/app.py)
+[![Source](https://img.shields.io/badge/Source-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryanshsingh-codes/NLP)
 
 </td>
 
 </tr>
-
-
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🚗 Car Price Prediction System</h3>
+### 🚗 Car Price Prediction
+Regression model for car price estimation.
 
-<p align="center">
+✔ Data Analysis | Feature Engineering  
+✔ Regression Models | Model Evaluation
 
-A regression based machine learning project that predicts car prices using different vehicle features.
+**Tech:** Python • Pandas • NumPy • Scikit-learn
 
-<br><br>
-
-<b>Highlights</b>
-
-<br>
-
-✔ Data Analysis
-
-✔ Feature Engineering
-
-✔ Regression Models
-
-✔ Model Evaluation
-
-<br><br>
-
-<b>Tech Stack</b>
-
-<br>
-
-Python • Pandas • NumPy • Scikit-learn
-
-<br><br>
-
-<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb">
-
-<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
+[![Source](https://img.shields.io/badge/Source-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project3OfML.ipynb)
 
 </td>
 
-
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 Insurance Cost Prediction System</h3>
+### 🏥 Insurance Cost Prediction
+Medical insurance cost estimation using regression.
 
-<p align="center">
+✔ Data Cleaning | EDA  
+✔ Regression Modeling | Evaluation
 
-A regression machine learning project that estimates medical insurance charges based on personal and health-related features.
+**Tech:** Python • Pandas • NumPy • Scikit-learn
 
-<br><br>
-
-<b>Highlights</b>
-
-<br>
-
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ Regression Modeling
-
-✔ Performance Evaluation
-
-<br><br>
-
-<b>Tech Stack</b>
-
-<br>
-
-Python • Pandas • NumPy • Scikit-learn
-
-<br><br>
-
-<a href="https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project5OfMLinsurance.ipynb">
-
-<img src="https://img.shields.io/badge/Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
+[![Source](https://img.shields.io/badge/Source-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryanshsingh-codes/MachineLearning/blob/main/Project5OfMLinsurance.ipynb)
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
 
 ---
+
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFzYzVzYzVzYzV6eGQ5eHQ1eHM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> GitHub Analytics
 
@@ -447,28 +313,16 @@ Python • Pandas • NumPy • Scikit-learn
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-codes&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-codes&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
-
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg"/>
-
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/profile-3d-contrib/profile-night-green.svg"/>
 
 </div>
 
