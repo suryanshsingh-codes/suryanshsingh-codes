@@ -305,7 +305,7 @@ Medical insurance cost estimation using regression.
 <br>
 <!-- Metrics Dashboard -->
 <p align="center">
-<img src="./github-metrics.svg"/>
+<img src="./github-metrics.svg" width="480"/>
 </p>
 </div>
 
