@@ -296,7 +296,9 @@ Medical insurance cost estimation using regression.
 </p>
 
 <!-- Streak -->
-<img width="100%" src="https://streak-stats.demolab.com?user=suryanshsingh-codes&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=suryanshsingh-codes&theme=tokyonight" width="90%"/>
+</p>
 
 <br><br>
 
