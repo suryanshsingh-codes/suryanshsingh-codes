@@ -1,48 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,15:0F172A,35:1E3A8A,55:2563EB,75:38BDF8,100:7DD3FC&text=Suryansh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=1100&lines=AI+ENGINEER;MACHINE+LEARNING;DEEP+LEARNING;NATURAL+LANGUAGE+PROCESSING;BUILDING+INTELLIGENT+SYSTEMS;OPEN+SOURCE+DEVELOPER"/>
-
-### **`Engineering Intelligence, One Model at a Time.`**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p>
-
-<a href="https://www.linkedin.com/in/suryanshsingh-codes/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:suryanshsingh.codes@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/suryanshsingh-codes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1n2Q5pkLTqM_eleNwgwhMzpW9rIhFrQCL/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
-</p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,15:0F172A,35:1E3A8A,55:2563EB,75:38BDF8,100:7DD3FC&text=Suryansh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer&descAlignY=58"/>
 <br>
-
-<img src="https://img.shields.io/github/stars/suryanshsingh-codes?style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/suryanshsingh-codes?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=900&duration=2200&color=38BDF8&center=true&vCenter=true&width=1100&lines=AI%2FML+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Building+End-to-End+AI+Projects;Learning+by+Building"/>
+<br>
+<p>
+  <a href="https://www.linkedin.com/in/suryanshsingh-codes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:suryanshsingh.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/suryanshsingh-codes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1oH6sz9ef0o60dLif1eYyuJAVXGlfYWhj/view">
+    <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 <img src="https://komarev.com/ghpvc/?username=suryanshsingh-codes&style=for-the-badge&color=2563EB"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/suryanshsingh-codes?style=for-the-badge&logo=github"/>
+<br>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
-
 ---
 
 # 💫 About Me
@@ -51,8 +36,10 @@
 class SuryanshSingh:
 
     def __init__(self):
-        self.role = "AI Engineer"
-        self.education = "B.Tech CSE • 2028"
+        self.name = "Suryansh Singh"
+        self.role = "AI/ML Engineer | Python Developer"
+        self.education = "B.Tech Computer Science & Engineering"
+        self.graduation = 2028
         self.location = "Roorkee, India"
 
         self.core_stack = [
@@ -72,15 +59,6 @@ class SuryanshSingh:
             "Keras",
             "Streamlit",
             "Git & GitHub"
-        ]
-
-        self.current_focus = [
-            "Generative AI",
-            "Agentic AI",
-            "Computer Vision",
-            "DSA",
-            "Backend Development",
-            "MLOps"
         ]
 
         self.goal = "Build Production Ready AI Systems."
@@ -137,6 +115,11 @@ me = SuryanshSingh()
 
 <img src="https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Regression-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Classification-0EA5E9?style=flat-square"/>
+
 </td>
 
 <td align="center" width="25%">
@@ -148,6 +131,11 @@ me = SuryanshSingh()
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EDA-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-0EA5E9?style=flat-square"/>
 
 </td>
 
@@ -169,6 +157,10 @@ me = SuryanshSingh()
 
 <img src="https://img.shields.io/badge/CNN-1D4ED8?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/RNN-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LSTM-0EA5E9?style=for-the-badge"/>
+
 </td>
 
 <td align="center">
@@ -183,6 +175,10 @@ me = SuryanshSingh()
 
 <img src="https://img.shields.io/badge/Text%20Classification-7C3AED?style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Sentiment%20Analysis-F7931E?style=flat-square"/>
+
 </td>
 
 <td align="center">
@@ -192,6 +188,8 @@ me = SuryanshSingh()
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Model%20Deployment-2563EB?style=for-the-badge"/>
+
+<br><br>
 
 </td>
 
@@ -206,6 +204,8 @@ me = SuryanshSingh()
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<br><br>
 
 </td>
 
@@ -375,8 +375,7 @@ Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit 
 </div>
 
 ---
-
-# 🏆 Certifications
+# 🏆 CERTIFICATIONS
 
 <div align="center">
 
@@ -386,21 +385,21 @@ Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit 
 
 <td align="center" width="50%">
 
-🥇
+### 🤖 Machine Learning
 
-### Machine Learning
+**MindLuster**
 
-**Mind Luster**
+Machine Learning
 
 </td>
 
 <td align="center" width="50%">
 
-🐍
+### 🐍 Python
 
-### Python
+**MindLuster**
 
-**Mind Luster**
+Python Programming
 
 </td>
 
@@ -408,23 +407,48 @@ Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit 
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-📊
+### 📊 Data Science
 
-### NumPy • Pandas • Statistics
+**MindLuster**
 
-**Mind Luster**
+Statistics for Data Science  
+Pandas & NumPy for Data Analysis
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
-💼
+### 💼 Data Analytics
 
-### Deloitte Data Analytics
+**Deloitte Australia — Forage**
 
-**Job Simulation**
+Data Analytics Job Simulation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 📈 Data Visualization
+
+**Tata Group — Forage**
+
+Data Visualization: Empowering Business with Effective Insights
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧠 AI / ML Learning
+
+**Independent Projects**
+
+Machine Learning • Deep Learning • NLP
 
 </td>
 
