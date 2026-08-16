@@ -14,7 +14,7 @@
   <a href="https://github.com/suryanshsingh-codes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1oH6sz9ef0o60dLif1eYyuJAVXGlfYWhj/view">
+  <a href="https://drive.google.com/file/d/1n2Q5pkLTqM_eleNwgwhMzpW9rIhFrQCL/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
