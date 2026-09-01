@@ -14,6 +14,9 @@
   <a href="https://github.com/suryanshsingh-codes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.kaggle.com/suryanshsinghcodes">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
   <a href="https://drive.google.com/file/d/1n2Q5pkLTqM_eleNwgwhMzpW9rIhFrQCL/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
@@ -28,9 +31,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
+
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 ```python
 class SuryanshSingh:
@@ -69,7 +73,7 @@ me = SuryanshSingh()
 
 ---
 
-# 🧠 AI Engineering Stack
+## 🧠 AI Engineering Stack
 
 <div align="center">
 
@@ -217,7 +221,7 @@ me = SuryanshSingh()
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -231,10 +235,8 @@ me = SuryanshSingh()
 
 End-to-end ML classification project with a Streamlit interface.
 
-✔ Data Preprocessing
-✔ EDA & Feature Engineering
-✔ Classification
-✔ Model Evaluation
+✔ Data Preprocessing ✔ EDA & Feature Engineering
+✔ Classification ✔ Model Evaluation
 
 **Tech:** Python • Pandas • Scikit-learn • Streamlit
 
@@ -254,10 +256,8 @@ End-to-end ML classification project with a Streamlit interface.
 
 NLP-based emotion classification system with a Streamlit application.
 
-✔ Text Preprocessing
-✔ TF-IDF / Bag of Words
-✔ Text Classification
-✔ Probability-based Prediction
+✔ Text Preprocessing ✔ TF-IDF / Bag of Words
+✔ Text Classification ✔ Probability-based Prediction
 
 **Tech:** Python • NLTK • Scikit-learn • Streamlit
 
@@ -277,10 +277,8 @@ NLP-based emotion classification system with a Streamlit application.
 
 Machine learning regression project for predicting used car prices.
 
-✔ Data Analysis
-✔ Feature Engineering
-✔ Regression
-✔ Model Evaluation
+✔ Data Analysis ✔ Feature Engineering
+✔ Regression ✔ Model Evaluation
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn
 
@@ -296,10 +294,8 @@ Machine learning regression project for predicting used car prices.
 
 Regression project for estimating medical insurance costs.
 
-✔ Data Cleaning
-✔ EDA
-✔ Regression Modeling
-✔ Model Evaluation
+✔ Data Cleaning ✔ EDA
+✔ Regression Modeling ✔ Model Evaluation
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn
 
@@ -313,21 +309,18 @@ Regression project for estimating medical insurance costs.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2" align="center">
 
-### 🖼️ MNIST Image Classification
+### 🖼️ MNIST Image Classification (CNN)
 
 Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit classification.
 
-✔ Image Preprocessing
-✔ ANN
-✔ CNN
-✔ Model Comparison
-✔ Confusion Matrix
+✔ Image Preprocessing ✔ ANN ✔ CNN
+✔ Model Comparison ✔ Confusion Matrix
 
 **Tech:** Python • TensorFlow • Keras • NumPy • Matplotlib
 
-<a href="https://github.com/suryanshsingh-codes/LearningDeepLearning/blob/main/CNN.ipynb">
+<a href="https://github.com/suryanshsingh-codes/DeepLearning/blob/main/CNN.ipynb">
 <img src="https://img.shields.io/badge/Notebook-2563EB?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </a>
 
@@ -341,7 +334,7 @@ Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit 
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -362,7 +355,7 @@ Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit 
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -375,89 +368,44 @@ Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit 
 </div>
 
 ---
-# 🏆 CERTIFICATIONS
+
+## 🏆 Certifications
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 🤖 Machine Learning
-
-**MindLuster**
-
-Machine Learning
-
-</td>
-
-<td align="center" width="50%">
-
-### 🐍 Python
-
-**MindLuster**
-
-Python Programming
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 📊 Data Science
-
-**MindLuster**
-
-Statistics for Data Science  
-Pandas & NumPy for Data Analysis
-
-</td>
-
-<td align="center" width="50%">
-
-### 💼 Data Analytics
-
-**Deloitte Australia — Forage**
-
-Data Analytics Job Simulation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 📈 Data Visualization
-
-**Tata Group — Forage**
-
-Data Visualization: Empowering Business with Effective Insights
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧠 AI / ML Learning
-
-**Independent Projects**
-
-Machine Learning • Deep Learning • NLP
-
-</td>
-
-</tr>
-
-</table>
+| Certification | Issuing Organization | Skills |
+| :--- | :--- | :--- |
+| **Data Visualization** | Tata Group — Forage | Effective Insights & Storytelling |
+| **Data Analytics** | Deloitte Australia — Forage | Data Analytics Job Simulation |
+| **Machine Learning** | MindLuster | Supervised & Unsupervised ML |
+| **Python Programming** | MindLuster | Python Fundamentals & OOP |
+| **Statistics for Data Science** | MindLuster | Descriptive & Inferential Statistics |
+| **Pandas & NumPy** | MindLuster | Data Manipulation & Numerical Computing |
 
 </div>
 
+---
+
+## 📚 My Learning Journey
+
+```mermaid
+graph LR
+    A[Python] --> B[Data Analysis]
+    B --> C[Machine Learning]
+    C --> D[SQL]
+    D --> E[NLP]
+    E --> F[Deep Learning]
+    F --> G[Computer Vision]
+    G --> H[MLOps]
+    style A fill:#2563EB,color:#fff
+    style B fill:#0EA5E9,color:#fff
+    style C fill:#38BDF8,color:#fff
+    style D fill:#F7931E,color:#fff
+    style E fill:#4CAF50,color:#fff
+    style F fill:#FF6F00,color:#fff
+    style G fill:#7C3AED,color:#fff
+    style H fill:#F43F5E,color:#fff
+```
 ---
 
 <div align="center">
