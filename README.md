@@ -359,10 +359,6 @@ Deep learning project comparing a Perceptron, ANN, and CNN on handwritten digit 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshsingh-codes&theme=tokyo-night&hide_border=true&area=true&radius=16"/>
-
-<br><br>
-
 <img width="100%" src="https://raw.githubusercontent.com/suryanshsingh-codes/suryanshsingh-codes/output/github-contribution-grid-snake.svg"/>
 
 </div>
