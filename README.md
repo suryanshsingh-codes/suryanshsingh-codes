@@ -17,7 +17,7 @@
   <a href="https://www.kaggle.com/suryanshsinghcodes">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1enWAxB6x-1vlbw4SVPJbs2PR9q1qpeFu/view?usp=drivesdk">
+  <a href="https://drive.google.com/file/d/1oeVQu37mVWrBn0Df1txk8wEk4sJmxrAT/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
